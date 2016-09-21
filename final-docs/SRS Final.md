@@ -8,9 +8,9 @@
 
 #### Team SSE
 
-- **K Manoj Kumar**  U101114FCS
+- **K Manoj Kumar**  U101114FCS187
 - **Vinit Koshti**  U101114FCS
-- **Jagrit Kaushik**  U101114FCS
+- **Jagrit Kaushik**  U101114FCS205
 - **Jeel Shah**  U101114FCS172
 - **Mansi Singh**  U101114FCS090
 
@@ -214,7 +214,28 @@ System Use Case Diagram is as follows:
 #### Functional Requirements
 | **Identifier for Requirement** | **Functional Requirement Name** | **Description** |
 | --- | --- | --- |
+|(UC1)|Suggest Doc|User can suggest documents|
+|(UC2)|Edit Profile|Manage User Profile|
+|(UC3)|Login|Metadata will be saved after login|
+|(UC4)|User ID|User-ID of the User|
+|(UC5)|Password|Password of the User|
+|(UC6)|Follow Library|User can follow libraries|
+|(UC7)|Search|User gives search keywords|
+|(UC8)|History|Log of user search history|
+|(UC9)|Upvote|User can upvote a document|
+|(UC10)|Add to Library|User can add documents(books/notes) to personal libraries|
+|(UC11)|Result|Search results|
+|(UC12)|Download Result|Users can download documents|
+|(UC13)|Insert|Admin can insert new documents|
+|(UC14)|Delete|Admin can delete documents|
+|(UC15)|Modify|Admin can modify documents|
+|(UC16)|Image|Browse custom scanned images|
+|(UC17)|View|View documents|
+|(UC18)|Document (UC18)|User can search within a document|
+|(UC19)|Books (UC19)|User can search for books|
+|(UC20)|Database (UC20)|System Database|
 
+----
 
 
 
