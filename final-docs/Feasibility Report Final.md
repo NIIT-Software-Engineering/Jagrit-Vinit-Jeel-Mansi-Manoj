@@ -3,7 +3,7 @@
 <h1> Smart Search for Education - Web Application </h1>
 
 <h2> Feasibility Study report </h2>
-</div>
+</div> 
 
 ## Overview of Document
 
@@ -43,29 +43,21 @@ The application is developed using all open-source softwares/libraies on Linux (
 
 ## Conclusions From Our Survey
 
-##### We surveyed, belonging to different diverse sectors like Educational Institutions (teachers/professors), students, book-lovers and general public.
+##### We surveyed 127 people, belonging to different diverse sectors like Educational Institutions (teachers/professors), students, book-lovers and general public.
 
 
-#### 1.
-<center><img src="" height = auto width = "600px" ></center>
+#### 1. <center><img src="https://cloud.githubusercontent.com/assets/14366356/18721359/bcc41ef0-804d-11e6-854c-9a106620de4a.PNG" height = auto width = "600px" ></center>
 
 
-#### Inference:
+#### Result: Around 
 
-#### 2.
-<center><img src="" height = auto width = "600px"></center>
+#### 2. <center><img src="https://cloud.githubusercontent.com/assets/14366356/18721360/bd379b32-804d-11e6-8445-70f7a60c2ac9.PNG" height = auto width = "600px"></center>
 
-#### Inference:
-
-
-#### 3.
-
-<center><img src="" height = auto width = "600px" ></center>
-
-#### Inference:
+#### Result:
 
 
-#### 4.
-<center><img src="" height = auto width = "600px" ></center>
+#### 3. <center><img src="https://cloud.githubusercontent.com/assets/14366356/18721361/be2f6e02-804d-11e6-81f5-e41ca2a8e0c7.PNG" height = auto width = "600px" ></center>
 
-#### Inference:
+#### Result: 
+
+Final result from the Survey: Among 127 people, 106 people (83.5%) showed interest in using the application.
