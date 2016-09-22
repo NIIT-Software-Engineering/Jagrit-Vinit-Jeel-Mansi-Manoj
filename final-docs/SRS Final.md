@@ -431,7 +431,7 @@ System Features included are:
   - 4.18.2 Stimulation/Response Design - 
    Only admin can stimulate it.
    
-4.19 **DELETE**
+4.19 **Delete**
    
   - 4.19.1 Description and Priority - 
    Delete operation on database
