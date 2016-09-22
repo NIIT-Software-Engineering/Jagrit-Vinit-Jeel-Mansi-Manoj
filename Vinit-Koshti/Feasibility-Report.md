@@ -1,8 +1,7 @@
 
 <div align=center>
-<h1> Smart Search for Education - Web Application </h1>
 
-<h2> Feasibility Study report </h2>
+<h2> Feasibility Study report - Smart Search  </h2>
 </div>
 
 ## Overview of Document
