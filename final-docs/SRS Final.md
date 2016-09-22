@@ -116,9 +116,6 @@ Using _Tesseract_ for Optical Character Recognition  text can be recognized from
 _Elasticsearch_ is used for unstructured search which can search and analyze in real-time. It is based on sophisticated RESTful API.
 
 
-#### System Use-Case Diagram
-![system_use_case_diagram](https://cloud.githubusercontent.com/assets/14366356/18707511/0c63f0be-8014-11e6-81af-d88caea556fb.png)
-
 ## 2.2 Product Functions <a name="od-pf"></a>
 SSE is a webapp where adminstrators will be uploading documents ( which may be in image format like scanned books, notes and other documents or other formats like .doc,.pdf ) which will be analysed and stored in the database.
 The file will be completely searchable by the users.
