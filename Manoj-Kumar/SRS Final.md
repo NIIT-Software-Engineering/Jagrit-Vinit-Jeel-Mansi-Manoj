@@ -8,9 +8,9 @@
 
 #### Team SSE
 
-- **K Manoj Kumar**  U101114FCS
-- **Vinit Koshti**  U101114FCS
-- **Jagrit Kaushik**  U101114FCS
+- **K Manoj Kumar**  U101114FCS187
+- **Vinit Koshti**  U101114FCS217
+- **Jagrit Kaushik**  U101114FCS205
 - **Jeel Shah**  U101114FCS172
 - **Mansi Singh**  U101114FCS090
 
@@ -116,9 +116,6 @@ Using _Tesseract_ for Optical Character Recognition  text can be recognized from
 _Elasticsearch_ is used for unstructured search which can search and analyze in real-time. It is based on sophisticated RESTful API.
 
 
-#### System Use-Case Diagram
-![system_use_case_diagram](https://cloud.githubusercontent.com/assets/14366356/18707511/0c63f0be-8014-11e6-81af-d88caea556fb.png)
-
 ## 2.2 Product Functions <a name="od-pf"></a>
 SSE is a webapp where adminstrators will be uploading documents ( which may be in image format like scanned books, notes and other documents or other formats like .doc,.pdf ) which will be analysed and stored in the database.
 The file will be completely searchable by the users.
@@ -214,11 +211,261 @@ System Use Case Diagram is as follows:
 #### Functional Requirements
 | **Identifier for Requirement** | **Functional Requirement Name** | **Description** |
 | --- | --- | --- |
+|(R1)|Suggest Doc|User can suggest documents|
+|(R2)|Edit Profile|Manage User Profile|
+|(R3)|Login|Metadata will be saved after login|
+|(R4)|User ID|User-ID of the User|
+|(R5)|Password|Password of the User|
+|(R6)|Follow Library|User can follow libraries|
+|(R7)|Search|User gives search keywords|
+|(R8)|History|Log of user search history|
+|(R9)|Upvote|User can upvote a document|
+|(R10)|Add to Library|User can add documents(books/notes) to personal libraries|
+|(R11)|Result|Search results|
+|(R12)|Download Result|Users can download documents|
+|(R13)|Insert|Admin can insert new documents|
+|(R14)|Delete|Admin can delete documents|
+|(R15)|Modify|Admin can modify documents|
+|(R16)|Image|Browse custom scanned images|
+|(R17)|View|View documents|
+|(R18)|Document|User can search within a document|
+|(R19)|Books|User can search for books|
+|(R20)|Database|System Database|
+
+----
+System Features included are: 
 
 
+4.1 **Search**
+-  4.01.1	Description and Priority - 
+   Any online user can search there query and he will be shown results based on up votes, 
+   Priority – High.
 
+-  4.01.2	Stimulation/Response Design - 
+   User writes query in the search box and clicks the search button.
 
+-  4.02.3	Functional Requirement - 
+   To access the site,Internet connectivity is must..
 
+4.2  **Results**
+
+-  4.02.1	Description and Priority - 
+   After search results based on up votes relating to the query will be shown, 
+   Priority – High.
+
+-  4.02.2	Stimulation/Response Design - 
+   When the user enters the query and press search button, results will be shown below the search box with download links, if results do not fit in one page, hyperlink to another page will be present at the bottom.
+
+-  4.02.3	Functional Requirement -  
+   No results will be displayed if the information about the query is not found, internet connectivity is must.
+   
+4.3 **Login**
+   
+-  4.3.1 Description and Priority - 
+   This user can login in his account to save his search history and save file in his account
+   Priority – Medium
+   
+-   4.3.2 Stimulation/Response Design - 
+   The user is provided with an option to login in the right top corner of the web portal
+   
+-   4.3.3 Functional Requirement -  
+   The user have to sign up to login.
+   
+   
+4.4 **Suggest Documents**.
+   
+ -  4.4.1 Description and Priority - 
+   Any online user can also suggest document to index in the database for which he did not found the results.
+   Priority – low
+   
+ -  4.4.2 Stimulation/Response Design - 
+   When the user didn’t find a result he will be shown a suggest a document box.
+   
+ -  4.4.3 Functional Requirement -  
+   If no results are found.
+   
+4.5 **Edit Profile**
+   
+ -  4.5.1 Description and Priority - 
+   A login user will need this feature.
+   Priority – High
+   
+ -  4.5.2 Stimulation/Response Design - 
+   The login user will be directed to edit profile page, on right top corner his login account will be shown.
+   
+ -  4.5.3 Functional Requirement -  
+   User first need to sign up to edit his account. 
+   
+4.6 **User-id** 
+   
+ -  4.6.1 Description and Priority - 
+   The user need to verify his/her identity by providing with the User id 
+   Priority – High  
+   
+ -  4.6.2 Stimulation/Response Design - 
+   When the user enters the credentials on the page, dynamic check of his user-id to take place.
+   
+ -  4.6.3 Functional Requirement -  
+   User must have an account i.e. must have signed up.
+   
+4.7 **Password**
+   
+ -  4.7.1 Description and Priority - 
+   Once the user is registered, they can login to the website using user-id and password.
+   Priority – High  
+   
+-   4.7.2 Stimulation/Response Design - 
+   Password inbox for entering password, when the user press the login button password verification takes place.
+   
+-   4.7.3 Functional Requirement -  
+   Sign up account
+   
+4.8 **Follow Library**
+ - 4.8.1  Description and Priority - 
+   The user can follow the library of any other user.
+   
+ -  4.8.2 Stimulation/Response Design - 
+   From users profile one can visit the other users profile and can click follow button to follow there library.
+   
+ -  4.8.3 Functional Requirement -  
+   Account sign up.
+   
+4.9 **Library**
+  - 4.9.1 Description and Priority - 
+   Library is where user can save the books and articles he found useful
+
+  - 4.9.2  Stimulation/Response Design - 
+   Whenever user is logged in and he download the file it is stored in the library.
+   
+4.10 **History**
+   
+  - 4.10.1 Description and Priority - 
+   The user have to login to backup his search history
+   
+  - 4.10.2 Stimulation/Response Design - 
+   User can see search history by logging in his account
+   
+  - 4.10.3 Functional Requirement -  
+   Account sign up.
+   
+4.11 **Download results**
+  - 4.11.1 Description and Priority - 
+   The user after the search will be provided with downloadable links to their search results.
+    
+  - 4.11.2 Stimulation/Response Design - 
+   When the user click the link the document is downloaded
+   
+  - 4.11.3 Functional Requirement -  
+   Internet connection
+   
+4.12 **Up votes**
+  - 4.12.1 Description and Priority - 
+   After the successful search the user can up vote the search result
+   
+  - 4.12.2 Stimulation/Response Design - 
+   The search result with most up votes will be displayed first and if you find useful there is upvoter button in right of link.
+   
+  - 4.12.3 Functional Requirement -  
+   Up vote button
+   
+4.13 **Document**
+ - 4.13.1 Description and Priority - 
+   
+   The user can filter the search result before search, he will have option like document, books, images
+   
+ -  4.13.2 Stimulation/Response Design - 
+   Select before search
+   
+ -  4.13.2 Functional Requirement -  
+   Internet connection
+   
+4.14 **Books**
+ -  4.14.1 Description and Priority - 
+   
+   The user can filter the search result before search, he will have option like document, books,images.
+   
+ -  4.14.2 Stimulation/Response Design - 
+   Select before search
+   
+ -  4.14.3 Requirement -  
+   Internet connection
+   
+4.15 **Image**
+ -  4.15.1 Description and Priority - 
+   
+   The user can filter the search result before search, he will have option like document, books, and image.
+   
+ -  4.15.2 Stimulation/Response Design - 
+   Select before search
+   
+ -  4.15.3 Requirement -  
+   Internet connection
+   
+4.16 **View**
+ -  4.16.1 Description and Priority - 
+   When the users do not want to download the result he can view the document.
+
+ -  4.16.2 Stimulation/Response Design - 
+   View button for stimulation
+   
+ -  4.16.3 Functional Requirement -  
+   Internet connectivity
+   
+4.17 **Database**
+ -  4.17.1 Description and Priority - 
+   The Database is the collection of indexed document, article, and books.
+
+ -  4.17.2 Stimulation/Response Design - 
+   Only admin can change or modify database.
+
+ -  4.17.3 Functional Requirement -  
+   Memory
+   
+4.18 **Insert**
+  - 4.18.1 Description and Priority - 
+   Insert operation on database
+   
+  - 4.18.2 Stimulation/Response Design - 
+   Only admin can stimulate it.
+   
+4.19 **Delete**
+   
+  - 4.19.1 Description and Priority - 
+   Delete operation on database
+   
+  - 4.19.2 Stimulation/Response Design - 
+   Only admin can stimulate it.
+   
+4.20 **Modify**
+   
+  - 4.20.1 Description and Priority - 
+   Modify operation on database
+   
+  -  4.20.2 Stimulation/Response Design - 
+   Only admin can stimulate it.
+
+# 5. Other Nonfunctional Requirements <a name="onr"></a>
+
+###Performance Requirements
+- Query should be found in any file format may it be doc, pdf, png, jpg…etc.
+- As a large amount of data is concerned, suitable place for data storage and data structures must be chosen so as to provide optimal retrieval speed. 
+- Since all the data is stored at one place, the security of the data must also be taken under consideration.
+- The processing speed of server and devices must be more in order to get efficient results.
+- Timely maintenance and reviewing of logs is necessary.
+
+# 6. Other Requirements <a name="otherreq"></a>
+
+TBD
+
+# Appendix <a name="appendix"></a>
+
+- Source for outline of this SRS Document : [Wikipedia](https://en.wikipedia.org/wiki/Software_requirements_specification#Structure)
+
+------------------
+
+[elasticsearch-website]: https://www.elastic.co/products/elasticsearch
+[tesseract-website]: https://github.com/tesseract-ocr
+[bootstrap-website]: http://getbootstrap.com/
 
 
 
