@@ -447,9 +447,28 @@ System Features included are:
   -  4.20.2 Stimulation/Response Design - 
    Only admin can stimulate it.
 
+# 5. Other Nonfunctional Requirements <a name="onr"></a>
 
+###Performance Requirements
+- Query should be found in any file format may it be doc, pdf, png, jpg…etc.
+- As a large amount of data is concerned, suitable place for data storage and data structures must be chosen so as to provide optimal retrieval speed. 
+- Since all the data is stored at one place, the security of the data must also be taken under consideration.
+- The processing speed of server and devices must be more in order to get efficient results.
+- Timely maintenance and reviewing of logs is necessary.
 
+# 6. Other Requirements <a name="otherreq"></a>
 
+TBD
+
+# Appendix <a name="appendix"></a>
+
+- Source for outline of this SRS Document : [Wikipedia](https://en.wikipedia.org/wiki/Software_requirements_specification#Structure)
+
+------------------
+
+[elasticsearch-website]: https://www.elastic.co/products/elasticsearch
+[tesseract-website]: https://github.com/tesseract-ocr
+[bootstrap-website]: http://getbootstrap.com/
 
 
 
