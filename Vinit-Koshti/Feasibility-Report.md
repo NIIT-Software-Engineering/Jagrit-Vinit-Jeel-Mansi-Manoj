@@ -19,6 +19,8 @@ The report consists of the following data:
 
 ## Analysis of problem (Why do we need this software?)
 
+As we all know that many times we find problem searching a particular topic within a book on the other hand we can directly jump to the topic and more than that many people face problem when they encounter books in scanned format i.e. jpegs and png.
+
 In this digitized mode of learning(e-learning) almost all of us use soft-copies suggested by friends, teachers and others for learning or reading. All the time searching the content inside the scanned documents is very difficult as search is not supported in images. Only the name of the image can be queried but not the content carried by the image.
 And also most of the times we want a particular concept/topic, and we download the whole book but end up not understanding or founding it not useful.
 
@@ -33,8 +35,9 @@ Also, user can create personal libraries out of the documents which are useful.
 ## Limitations and Constraints
 
 - The application requires Internet connection and a web browser to access the application independent of the device.
-- The appication is initially built only for (Enlish US). Therefore it is searchable in the same language only.
+- The application is initially built only for (English US). Therefore it is searchable in the same language only.
 - The application is built keeping in mind the user has basic knowledge in using Web Applications.
+- The application produce result based on the database, so its robustness to query depends on the size and dimension of database.
 
 
 ## Economic Feasibility
