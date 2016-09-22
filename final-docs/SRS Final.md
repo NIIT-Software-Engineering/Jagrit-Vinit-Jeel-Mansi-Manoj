@@ -236,7 +236,7 @@ System Use Case Diagram is as follows:
 |(UC20)|Database (UC20)|System Database|
 
 ----
-
+System Features included are:
 
 
 
