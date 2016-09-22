@@ -240,14 +240,13 @@ System Features included are:
 
 
 4.1 **Search**
-   Description and Priority
+-  4.01.1	Description and Priority
    Any online user can search there query and he will be shown results based on up votes, 
    Priority – High.
-   Stimulation/Response Design
-   User writes query in the search box and press the search button.
-   
-   Functional Requirement
-   When the user enters the site, he should have strong internet connectivity.
+-  4.01.2	Stimulation/Response Design
+   User writes query in the search box and clicks the search button.
+-  4.02.3	Functional Requirement
+   To access the site,Internet connectivity is must..
 
 4.2  **Results**
 
@@ -258,160 +257,160 @@ System Features included are:
 -  4.02.2	Stimulation/Response Design
    When the user enters the query and press search button, results will be shown below the search box with download links, if results do not fit in one page, hyperlink to another page will be present at the bottom.
 
-   4.02.3	Functional Requirement 
+-  4.02.3	Functional Requirement 
    No results will be displayed if the information about the query is not found, internet connectivity is must.
    
-   4.3 login
+4.3 **Login**
    
-   4.3.1 Description and Priority
+-  4.3.1 Description and Priority
    This user can login in his account to save his search history and save file in his account
    Priority – Medium
    
-   4.3.2 Stimulation/Response Design
+-   4.3.2 Stimulation/Response Design
    The user is provided with an option to login in the right top corner of the web portal
    
-   4.3.3 Functional Requirement 
+-   4.3.3 Functional Requirement 
    The user have to sign up to login.
    
    
-   4.4 Suggest Documents.
+4.4 **Suggest Documents**.
    
-   4.4.1 Description and Priority
+-   4.4.1 Description and Priority
    Any online user can also suggest document to index in the database for which he did not found the results.
    Priority – low
    
-   4.4.2 Stimulation/Response Design
+-   4.4.2 Stimulation/Response Design
    When the user didn’t find a result he will be shown a suggest a document box.
    
-   4.4.3 Functional Requirement 
+ -  4.4.3 Functional Requirement 
    If no results are found.
    
-   4.5 Edit Profile
+4.5 **Edit Profile**
    
-   4.5.1 Description and Priority
+-   4.5.1 Description and Priority
    A login user will need this feature.
    Priority – High
    
-   4.5.2 Stimulation/Response Design
+ -  4.5.2 Stimulation/Response Design
    The login user will be directed to edit profile page, on right top corner his login account will be shown.
    
-   4.5.3 Functional Requirement 
+-   4.5.3 Functional Requirement 
    User first need to sign up to edit his account. 
    
-   4.6 User-id 
+4.6 **User-id** 
    
-   4.6.1 Description and Priority
+-   4.6.1 Description and Priority
    The user need to verify his/her identity by providing with the User id 
    Priority – High  
    
-   4.6.2 Stimulation/Response Design
+ -  4.6.2 Stimulation/Response Design
    When the user enters the credentials on the page, dynamic check of his user-id to take place.
    
-   4.6.3 Functional Requirement 
+-   4.6.3 Functional Requirement 
    User must have an account i.e. must have signed up.
    
-   4.7 Password
+4.7 **Password**
    
-   4.7.1 Description and Priority
+ -  4.7.1 Description and Priority
    Once the user is registered, they can login to the website using user-id and password.
    Priority – High  
    
-   4.7.2 Stimulation/Response Design
+-   4.7.2 Stimulation/Response Design
    Password inbox for entering password, when the user press the login button password verification takes place.
    
-   4.7.3 Functional Requirement 
+-   4.7.3 Functional Requirement 
    Sign up account
    
-   4.8 Follow Library
-   4.8.1  Description and Priority
+4.8 **Follow Library**
+  - 4.8.1  Description and Priority
    The user can follow the library of any other user.
    
-   4.8.2 Stimulation/Response Design
+-   4.8.2 Stimulation/Response Design
    From users profile one can visit the other users profile and can click follow button to follow there library.
    
-   4.8.3 Functional Requirement 
+ -  4.8.3 Functional Requirement 
    Account sign up.
    
-   4.9 Library
-   4.9.1 Description and Priority
+4.9 **Library**
+  - 4.9.1 Description and Priority
    Library is where user can save the books and articles he found useful
-   4.9.2  Stimulation/Response Design
+-   4.9.2  Stimulation/Response Design
    Whenever user is logged in and he download the file it is stored in the library.
    
-   4.10 History
+4.10 **History**
    
-   4.10.1 Description and Priority
+  - 4.10.1 Description and Priority
    The user have to login to backup his search history
    
-   4.10.2 Stimulation/Response Design
+  - 4.10.2 Stimulation/Response Design
    User can see search history by logging in his account
    
-   4.10.3 Functional Requirement 
+  - 4.10.3 Functional Requirement 
    Account sign up.
    
-   4.11 Download results
-   4.11.1 Description and Priority
+4.11 **Download results**
+  - 4.11.1 Description and Priority
    The user after the search will be provided with downloadable links to their search results.
     
-   4.11.2 Stimulation/Response Design
+  - 4.11.2 Stimulation/Response Design
    When the user click the link the document is downloaded
    
-   4.11.3 Functional Requirement 
+ -  4.11.3 Functional Requirement 
    Internet connection
    
-   4.12 Up votes
-   4.12.1 Description and Priority
+4.12 **Up votes**
+  - 4.12.1 Description and Priority
    After the successful search the user can up vote the search result
    
-   4.12.2 Stimulation/Response Design
+  - 4.12.2 Stimulation/Response Design
    The search result with most up votes will be displayed first and if you find useful there is upvoter button in right of link.
    
-   4.12.3 Functional Requirement 
+ -  4.12.3 Functional Requirement 
    Up vote button
    
-   4.13 Document
-   4.13.1 Description and Priority
+4.13 **Document**
+  - 4.13.1 Description and Priority
    
    The user can filter the search result before search, he will have option like document, books, images
    
-   4.13.2Stimulation/Response Design
+ -  4.13.2Stimulation/Response Design
    Select before search
    
-   4.13.2 Functional Requirement 
+ -  4.13.2 Functional Requirement 
    Internet connection
    
-   4.14 Books
-   4.14.1 Description and Priority
+4.14 **Books**
+-   4.14.1 Description and Priority
    
    The user can filter the search result before search, he will have option like document, books,images.
    
-   4.14.2Stimulation/Response Design
+ -  4.14.2 Stimulation/Response Design
    Select before search
    
-   4.14.3 Requirement 
+-   4.14.3 Requirement 
    Internet connection
    
-   4.15 Image
-   4.15.1 Description and Priority
+4.15 **Image**
+ -  4.15.1 Description and Priority
    
    The user can filter the search result before search, he will have option like document, books, and image.
    
-   4.15.2Stimulation/Response Design
+ -  4.15.2Stimulation/Response Design
    Select before search
    
-   4.15.3 Requirement 
+-   4.15.3 Requirement 
    Internet connection
    
-   4.16 View
-   4.16.1 Description and Priority
+4.16 **View**
+   -4.16.1 Description and Priority
    When the users do not want to download the result he can view the document.
-   4.16.2 Stimulation/Response Design
+   -4.16.2 Stimulation/Response Design
    View button for stimulation
    
-   4.16.3 Functional Requirement 
+  - 4.16.3 Functional Requirement 
    Internet connectivity
    
-   4.17 Database
+4.17 **Database**
    4.17.1 Description and Priority
    The Database is the collection of indexed document, article, and books .
    4.17.2 Stimulation/Response Design
@@ -419,14 +418,14 @@ System Features included are:
    4.17.3 Functional Requirement 
    Memory
    
-   4.18 Insert
+4.18 **Insert**
    4.18.1 Description and Priority
    Insert operation on database
    
    4.18.2 Stimulation/Response Design
    Only admin can stimulate it.
    
-   4.19 DELETE
+4.19 **DELETE**
    
    4.19.1 Description and Priority
    Delete operation on database
@@ -434,7 +433,7 @@ System Features included are:
    4.19.2 Stimulation/Response Design
    Only admin can stimulate it.
    
-   4.20 Modify
+4.20 **Modify**
    
    4.20.1 Description and Priority
    Modify operation on database
