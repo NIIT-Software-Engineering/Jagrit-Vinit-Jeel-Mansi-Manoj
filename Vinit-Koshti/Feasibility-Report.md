@@ -47,25 +47,19 @@ The application is developed using all open-source softwares/libraies on Linux (
 
 
 #### 1.
-<center><img src="" height = auto width = "600px" ></center>
+![](https://cloud.githubusercontent.com/assets/16951071/18737515/fdb435b4-80af-11e6-8629-b1b9a5133df6.PNG)
 
 
 #### Inference:
 
 #### 2.
-<center><img src="" height = auto width = "600px"></center>
+![](https://cloud.githubusercontent.com/assets/16951071/18737516/fdb5baa6-80af-11e6-8ddd-2c50999e13b1.PNG)
 
 #### Inference:
 
 
 #### 3.
 
-<center><img src="" height = auto width = "600px" ></center>
-
-#### Inference:
-
-
-#### 4.
-<center><img src="" height = auto width = "600px" ></center>
+![](https://cloud.githubusercontent.com/assets/16951071/18737517/fdb8ade2-80af-11e6-9ea3-ae85e40e9089.PNG)
 
 #### Inference:
