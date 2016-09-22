@@ -239,16 +239,17 @@ System Use Case Diagram is as follows:
 System Features included are: 
 
 
-4.1 Search
--  4.01.1  Description and Priority
+4.1 **Search**
+   Description and Priority
    Any online user can search there query and he will be shown results based on up votes, 
    Priority – High.
--  4.01.2  Stimulation/Response Design
+   Stimulation/Response Design
    User writes query in the search box and press the search button.
--  4.02.3  Functional Requirement
+   
+   Functional Requirement
    When the user enters the site, he should have strong internet connectivity.
 
-4.2  Results
+4.2  **Results**
 
 -  4.02.1	Description and Priority
    After search results based on up votes relating to the query will be shown, 
