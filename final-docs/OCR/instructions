@@ -1,0 +1,14 @@
+command to run python file from terminal :
+
+general:
+python ocr_1.py folder_name
+ex:
+python ocr_1.py doc_name
+
+note: folder must contain image of all pages of only one document 
+and name of the doc should be the name of the folder. name of scanned pages of doc must
+be like 1.jpg, 2.jpg, 3.jpg,..........n.jpg   as in images folder
+
+output:
+folder_name.txt file
+or say doc_name.txt file
