@@ -1,3 +1,12 @@
+requirement :
+install tesserocr (a python wrapper for tesseract library written in c and c++)
+apt-get install tesseract-ocr libtesseract-dev libleptonica-dev
+pip install tesserocr
+
+install Cython
+pip install Cython --install-option="--no-cython-compile"
+
+
 command to run python file from terminal :
 
 general:
