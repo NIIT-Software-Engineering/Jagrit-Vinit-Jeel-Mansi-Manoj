@@ -4,7 +4,7 @@
 
 #### Working of our Smart Search Education Web App
 
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/193231279 "Little red riding hood - Click to Watch!")
+[![Little red ridning hood](https://github.com/NIIT-Software-Engineering/Jagrit-Vinit-Jeel-Mansi-Manoj/blob/master/top.png?raw=true)](https://vimeo.com/193231279 "Little red riding hood - Click to Watch!")
 
 <div align = left>
  <h2>Smart Search Education Documentation Quick Links </h2>
