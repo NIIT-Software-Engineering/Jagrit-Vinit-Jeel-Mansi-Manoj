@@ -5,8 +5,7 @@
 </div><br /><br />
 
 ### Libraries
-- [pypdfocr](https://pypi.python.org/pypi/pypdfocr)
-- [imagemagick](https://www.imagemagick.org/)
+
 - [tesseract-ocr](https://github.com/tesseract-ocr)
 - [elastic search](www.elastic.co/products/elasticsearch)
 
@@ -18,7 +17,7 @@
 - [Git](https://en.wikipedia.org/wiki/Git)
 
 
-### Softwares and Utilities
+### Softwares
 
 - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 - [jsMeter](jsmeter.info/)
