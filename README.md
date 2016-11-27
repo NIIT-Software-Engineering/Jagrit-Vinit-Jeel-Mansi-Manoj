@@ -4,7 +4,7 @@
 
 <div align=center>
  <hi>Smart Search Education Documentation Quick Links </hi>
- </div<br /><br />
+ </div><br /><br />
 
 ## Documents
 
