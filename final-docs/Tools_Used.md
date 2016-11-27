@@ -22,6 +22,8 @@
 
 - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 - [jsMeter](jsmeter.info/)
+- [selenium](docs.seleniumhq.org/)
+- [source monitor](http://www.campwoodsw.com/sourcemonitor.html)
 - [eclipse](https://eclipse.org/)
 - [VSCode](https://code.visualstudio.com)
 - [Atom](https://atom.io/)
