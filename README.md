@@ -1,10 +1,10 @@
 # Jagrit-Vinit-Jeel-Mansi-Manoj
 - Smart Search for Education - Implementation of Unstructured Search and Optical Character Recognition.
-<br />
+<br /><br />
 
-<div align=center>
- <hi>Smart Search Education Documentation Quick Links </hi>
- </div><br /><br />
+<div align = left>
+ <h2>Smart Search Education Documentation Quick Links </h2>
+ </div><br />
 
 ## Documents
 
