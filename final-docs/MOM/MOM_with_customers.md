@@ -6,7 +6,7 @@
   
 </div>
 
-#### Team Project Recommend
+#### Team 
 
 - **Jagrit Kaushik** U101114FCS205
 - **Jeel Shah**  U101114FCS
