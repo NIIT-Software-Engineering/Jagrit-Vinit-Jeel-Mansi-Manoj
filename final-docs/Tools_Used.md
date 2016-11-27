@@ -12,8 +12,8 @@
 
 ### Communication and Project Management
 
-- [Whatsapp]
-- [Slack]
+- Whatsapp
+- Slack
 - [GitHub](https://github.com/NIIT-Software-Engineering/Jagrit-Vinit-Jeel-Mansi-Manoj)
 - [Git](https://en.wikipedia.org/wiki/Git)
 
@@ -33,5 +33,5 @@
 - [junit](help.eclipse.org/neon/topic/org.eclipse.pde.doc.user/guide/.../junit_launcher.htm)
 
 ### Documentation
-- [Github Pages]
+- Github Pages
 
