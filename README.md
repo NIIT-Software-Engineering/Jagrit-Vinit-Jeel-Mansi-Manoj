@@ -22,6 +22,7 @@
 - [Component Diagram]()
 - [Class Diagram]()
 - [Sequence Diagram]()
+- [State Diagram](https://github.com/NIIT-Software-Engineering/Jagrit-Vinit-Jeel-Mansi-Manoj/blob/master/final-docs/images/state.png?raw=true)
 
 
 ------------
