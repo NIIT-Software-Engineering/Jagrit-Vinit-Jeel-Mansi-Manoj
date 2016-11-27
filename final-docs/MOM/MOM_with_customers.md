@@ -4,7 +4,7 @@
   <h2>Smart Search Education</h2>
   <br />
   
-</div><br /><br />
+</div>
 
 #### Team Project Recommend
 
