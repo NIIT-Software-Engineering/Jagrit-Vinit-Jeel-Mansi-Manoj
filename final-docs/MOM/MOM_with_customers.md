@@ -14,18 +14,18 @@
 - **K Manoj Kumar**  U101114FCS187
 - **Vinit Koshti**  U101114FCS217
 
-#### NIIT University
+### NIIT University
 
-## Purpose
-
-
-
-
-
-## Students
+##### Purpose
 
 
 
 
 
-## Faculty
+##### Students
+
+
+
+
+
+##### Faculty
