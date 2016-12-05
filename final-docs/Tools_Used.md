@@ -12,7 +12,6 @@
 ### Communication and Project Management
 
 - Whatsapp
-- Slack
 - [GitHub](https://github.com/NIIT-Software-Engineering/Jagrit-Vinit-Jeel-Mansi-Manoj)
 - [Git](https://en.wikipedia.org/wiki/Git)
 
@@ -20,18 +19,15 @@
 ### Softwares
 
 - [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
-- [jsMeter](jsmeter.info/)
-- [selenium](docs.seleniumhq.org/)
 - [source monitor](http://www.campwoodsw.com/sourcemonitor.html)
 - [eclipse](https://eclipse.org/)
 - [VSCode](https://code.visualstudio.com)
-- [Atom](https://atom.io/)
 - [GitHub Desktop](https://desktop.github.com/)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ### Testing
-- [NOSE2](http://nose2.readthedocs.io)
-- [junit](help.eclipse.org/neon/topic/org.eclipse.pde.doc.user/guide/.../junit_launcher.htm)
+- [jsMeter](jsmeter.info/)
+- [selenium](docs.seleniumhq.org/)
+
 
 ### Documentation
 - Github Pages
