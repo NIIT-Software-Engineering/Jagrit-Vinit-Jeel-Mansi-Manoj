@@ -14,6 +14,7 @@
 
 - [Software Requirement Specification]()
 - [Feasibility Study report]()
+-- [HardWare Requiements report]()
 - [Requirement Traceability Matrix]()
 - [Development Traceability Matrix]()
 - [Software Design Document]()
